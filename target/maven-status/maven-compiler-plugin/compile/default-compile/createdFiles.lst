@@ -1,0 +1,10 @@
+bi\dashboard\model\TaskModel.class
+bi\dashboard\controller\ProjectController.class
+bi\dashboard\view\HomeView.class
+bi\dashboard\repo\ProjectRepo.class
+bi\dashboard\model\ProjectModel.class
+bi\dashboard\model\ResourceModel.class
+bi\dashboard\controller\ResourceController.class
+bi\dashboard\repo\ProjectData.class
+bi\dashboard\DashboardApplication.class
+bi\dashboard\DatabaseSeeder.class
